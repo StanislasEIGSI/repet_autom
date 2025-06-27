@@ -1,0 +1,18 @@
+Salut à toi jeune padawan !
+On a tous connu la galère de devoir gérer les repets pour Larsen, 
+quoi de mieux qu'un petit bijou de technologie pour nous aider ?
+
+Voici un petit script python codé à l'aide de nos connaissance (et un peu d'IA...)
+
+
+Pour pouvoir s'en servir, quelques prérequis :
+
+1. Installer Python 3.x (https://www.python.org/downloads/)
+2. Installer les bibliothèques nécessaires :
+   pip install pandas openpyxl tk
+3. Avoir les fichierrs CSV et Excel nécessaires dans le même dossier que le script :
+   - musiciens.csv (pour la liste des musiciens)
+   - musiques.csv (pour la liste des musiques)
+   - dispos.csv (pour les disponibilités des musiciens)
+   - planning.xlsx (pour le planning des répétitions)
+                 
